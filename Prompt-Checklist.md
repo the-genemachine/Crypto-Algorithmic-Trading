@@ -1,0 +1,27 @@
+# Steps to Create Great ChatGPT Prompts
+
+- [ ] **1. Purpose Definition**
+  - Clearly define the prompt's objective
+- [ ] **2. Brevity and Clarity**
+  - Keep prompt concise and clear
+  - Avoid jargon
+- [ ] **3. Specificity**
+  - Guide the model with specific questions
+- [ ] **4. Avoid Leading Questions**
+  - Avoid biases in the framing
+- [ ] **5. Context Inclusion**
+  - Provide necessary background
+- [ ] **6. Use of Open-ended Questions**
+  - Encourage comprehensive answers
+- [ ] **7. Response Format**
+  - Specify preferred response type
+- [ ] **8. Anticipate Variations**
+  - Test model's consistency
+- [ ] **9. Iterative Testing**
+  - Refine prompt based on responses
+- [ ] **10. Seek Feedback**
+  - Share with peers and users
+- [ ] **11. Stay Updated**
+  - Adjust for model updates
+- [ ] **12. Ethical Considerations**
+  - Ensure ethical prompt creation
